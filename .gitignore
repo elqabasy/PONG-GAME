@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Our New
+.vscode/
+/cmake-build-debug/
